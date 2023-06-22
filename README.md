@@ -1,1 +1,1 @@
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimna254&show_icons=true&theme=radical)
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimna254&show_icons=true&theme=highcontrast)
