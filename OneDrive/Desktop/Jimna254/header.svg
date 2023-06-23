@@ -2,7 +2,7 @@
 	<foreignObject width="800px" height="200">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>			
-				@keyframes gradientBackground {
+			/*	@keyframes gradientBackground {
 					0% {
 						background-position: 0% 50%;
 					}
@@ -13,7 +13,7 @@
 						background-position: 0% 50%;
 					}
 				}
-			
+			*/
 				.container {
 					font-family:
 						system-ui,
