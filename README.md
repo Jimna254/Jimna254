@@ -1,5 +1,5 @@
 <p align="center">
-<img src="OneDrive/Desktop/Jimna254/header.svg" />
+<img src="" />
 </p>
 <br/>
 <div align="center">
