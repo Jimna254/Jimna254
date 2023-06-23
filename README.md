@@ -1,6 +1,5 @@
-OneDrive/Desktop/Jimna254/header.svg
 <p align="center">
-<img src="header.svg" />
+<img src="OneDrive/Desktop/Jimna254/header.svg" />
 </p>
 <br/>
 <div align="center">
