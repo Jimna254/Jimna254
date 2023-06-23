@@ -8,7 +8,7 @@
   Full-stack software engineer | A graduate in Software Engineering. </br>
   A passionate individual who likes to work on end to end products which develop sustainable and scalable social and technical systems to create impact an dsolve problems.
   </p>
-  <p> my portfolio <a href="https//:kariukijames.com">James Kariuki</a>
+  <p> my portfolio <a href="https://kariukijames.com">James Kariuki</a>
  
    <br />
   <br/>
