@@ -6,7 +6,7 @@
 <h2> About </h2>
   <p align="start">
   Full-stack software engineer | A graduate in Software Engineering. </br>
-  A passionate individual in software development seeking to develop scalable applications using various cutting-edge technologies. I posess excellent teamwork and great technical and soft skills.
+  A passionate individual in software development seeking to develop scalable applications using various cutting-edge technologies.  I possess excellent teamwork skills and have both technical and soft skills to succeed in my field.
   </p>
   <p> my portfolio <a href="https://kariukijames.com">James Kariuki</a>
  
